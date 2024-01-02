@@ -18,6 +18,7 @@ Like any project we will solve problem with followind steps
 3. Shadcn UI
 4. Clerk
 5. Uploadthing
+6. React Quill
 
 ## Future Helps
  
